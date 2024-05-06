@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "admin-lte-express": "^1.4.2",
     "express": "^4.19.2",
     "path": "^0.12.7",
     "request": "^2.88.2"
@@ -8,9 +9,8 @@
   "description": "��#\u0000 \u0000F\u0000r\u0000o\u0000n\u0000t\u0000\r\u0000 \u0000",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node index.js"
   },
   "repository": {
     "type": "git",
